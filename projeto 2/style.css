@@ -1,0 +1,26 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+height: 200vw;
+width: 200vw;
+}
+.div-dad{
+height: 350px;
+width: 350px;
+background-color: palevioletred;
+border-radius: 12px;
+}
+.div-son{
+height: 150px;
+width: 150px;
+background-color: yellowgreen;
+border-radius: 17px;
+}
+.tanana{
+    background-color: blue;
+    border:forestgreen ;
+    height: 100px;
+    width: 100px;
+    border-radius:12px ;
+}
