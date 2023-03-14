@@ -1,0 +1,33 @@
+*{margin: 0;
+    padding:0 ;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.caixa{
+height: 60vh;
+width: 100vw;
+
+}
+.caixa-left{display: inline-block;
+width: 50%;
+height: 30vh;
+position: absolute;
+
+}
+.caixa-right{display: inline-block;
+    width: 50%;
+}
+img{
+
+    position: relative;
+    top: 25%;
+    right: 138px;
+}
+p{
+margin-top: 55px;
+margin-right: 116px;
+margin-bottom: 72px;
+margin-left: 81px;
+display: inline-block;
+
+}
